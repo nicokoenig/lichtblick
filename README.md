@@ -1,0 +1,3 @@
+# Lichtblick Landing Page
+
+:-)
